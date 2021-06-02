@@ -5,4 +5,4 @@ This Application works based on scraping, which involves the use of python libra
 
 It scrapes the daily number of new covid cases from the government source and uses them along with the Request library and thus sends us the data in the form of a notifier.
 
-<img src = 
+![Output Image](/output/outputimage.jpg)
